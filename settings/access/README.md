@@ -9,5 +9,5 @@
 在本地终端以管理员身份在vuepress目录下，运行命令vuepress build . 
 命令执行后会在.vuepress目录下生成dist目录，里面的就是最终的html文件。
 
-网址的根目录为vuepress文件夹下的README.md，导航栏课在.vuepress文件夹下config.js文件中修改。
+网址的根目录为vuepress文件夹下的README.md，导航栏可在.vuepress文件夹下config.js文件中修改。
 静态文件放在.vuepress下public文件夹中
