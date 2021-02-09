@@ -1,17 +1,18 @@
 module.exports = [
-  // Nav 1
   {
-    text: "首页",
-    link: "/"
+    text: '首页',
+    link: '/'
   },
-  // Nav 2
   {
-    text: "快速开始",
-    link: "/category/"
+    text: '指南',
+    link: '/guide/'
   },
-  // Nav 2
   {
-    text: "技术分享",
-    link: "http://www.mangdagou.com/"
+    text: '插件',
+    link: '/plugin/'
   },
+  {
+    text: '案例',
+    link: '/case/'
+  }
 ];

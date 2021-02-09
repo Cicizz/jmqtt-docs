@@ -55,12 +55,11 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.git
 .vscode
 .env
 .idea
-.DS_Store
 dist
+.DS_Store
 lib
 es
 _site
@@ -68,5 +67,13 @@ yarn.lock
 package-lock.json
 /coverage
 
-# useless files
-templete
+# bak files
+/components/test/*
+list.txt
+
+site/dev.js
+
+# uesless file
+vuepress-theme-antdocs/LICENSE
+vuepress-theme-antdocs/package.json
+vuepress-theme-antdocs/README.md
