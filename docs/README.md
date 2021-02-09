@@ -23,123 +23,83 @@ footerWrap:
   - title: mqtt5 协议
     link: https://www.zybuluo.com/khan-lau/note/1325300
     details: mqtt5协议
-- headline: ⚓资源链接
-  items:
-  - title: VuePress
-    link: https://vuepress.vuejs.org/zh/
-  - title: Ant Design Vue
-    link: https://antdv.com/
 - headline: 💬社区交流
   items:
-  - title: VuePress 社区
-    link: https://shang.qq.com/wpa/qunwpa?idkey=fce20f9d7a5620dbb261b31b6bd01f726c9e24e7697fcba4ea7927d5dc971ac5
-    details: QQ交流群
-  - title: 入驻申请
-    link: https://wj.qq.com/s2/5692294/796a/
-    details: 插件/脚本/案例
+  - title: qq群
+    link: 
+    details: QQ交流群：578185385
   - title: 报告 Bug
-    link: https://github.com/zpfz/vuepress-theme-antdocs/issues
+    link: https://github.com/Cicizz/jmqtt/issues
     details: Github issue
 - headline: ☕作者博客
   items:
-  - title: 掘金
-    link: https://juejin.im/user/5d07466b51882554d6312922/
-    details: 一个帮助开发者成长的社区
-  - title: CSDN
-    link: https://blog.csdn.net/zpfz756/
-    details: 专业IT技术社区
-footer: MIT Licensed | Copyright © 2020-present Feng Left-Handed
+  - title: mangdagou
+    link: http://www.mangdagou.com/blog
+    details: 记录，分享与总结
+footer: Apache Licensed | Copyright © 2020-present zze Left-Handed
 ---
 
-# 快速上手
+## 快速上手
 
-## 安装主题
+### 安装主题
 
-使用 `yarn` 安装 `AntDocs` 主题：
+1. 下载 [release](https://github.com/Cicizz/jmqtt/releases)(3.x以上版本) 或`clone`本项目：
+2. 在jmqtt根目录执行：：
 ```bash
-yarn add vuepress-theme-antdocs
+mvn -Ppackage-all -DskipTests clean install -U
 ```
-或者使用 `npm` 安装它：
-```bash
-npm i vuepress-theme-antdocs
-```
-如果你的网络环境不佳，推荐使用 [cnpm](https://github.com/cnpm/cnpm)。
+3. 配置相应的配置文件,初始化db的sql文件:`/jmqtt-broker/resources/conf`目录下
+4. 执行启动命令：`java -jar jmqtt-broker-3.0.0.jar -h ${conf文件目录}` -h后是配置文件目录，里面需要包含jmqtt.properties和log4j2.xml等配置文件
 
-## 引用主题
+### 测试
+下载客户端：[mqtt客户端](https://mqttx.app/cn/)
+或 直接使用websocket测试：`/jmqtt/jmqtt-examples`
 
-打开 `.vuepress/config.js` 文件，然后在合适位置引用它：
-
-```js
-module.exports = {
-  ...
-  theme: 'antdocs',
-  ...
-}
-```
-如果你对 VuePress 主题配置不是很了解，请点这里：[使用主题](https://vuepress.vuejs.org/zh/theme/using-a-theme.html#%E4%B8%BB%E9%A2%98%E7%9A%84%E7%BC%A9%E5%86%99)  
-
-配置完毕后，你就可以直接 `yarn run docs:dev` 或 `npm run docs:dev` 查看效果。
-
-## 效果预览
-
-<p align="center"><img src="https://s2.ax1x.com/2020/02/28/3B3lOf.png"/></p>
-
-## 贡献者
+### 贡献者
 
 <p></p>
 
 <a-tooltip placement="bottom">
   <template slot="title">
-    左撇峰子
+    zze
   </template>
-  <a-avatar src="https://s2.ax1x.com/2020/02/28/3rs23q.jpg" :size="54"/>
+  <a-avatar src="/assets/lufei.png" :size="54"/>
 </a-tooltip>
 &ensp;
 <a-tooltip placement="bottom">
   <template slot="title">
-    Guojun Chen
+    fupeng
   </template>
-  <a-avatar src="https://s2.ax1x.com/2020/02/29/3yu9OK.jpg" :size="54"/>
+  <a-avatar src="/assets/suolong.png" :size="54"/>
 </a-tooltip> 
 &ensp;
 <a-tooltip placement="bottom">
   <template slot="title">
-    Baiang
+    duyichang
   </template>
-  <a-avatar src="https://avatars2.githubusercontent.com/u/8638857?s=120&v=4" :size="54"/>
+  <a-avatar src="/assets/shanzhi.png" :size="54"/>
 </a-tooltip>  
 &ensp;
 <a-tooltip placement="bottom">
   <template slot="title">
-    Yexk_M
+    liuyanbin
   </template>
-  <a-avatar src="https://avatars2.githubusercontent.com/u/19749521?s=400&u=62d64f041af4a703c3a4089de9957c7c6a5c671f&v=4" :size="54"/>
+  <a-avatar src="/assets/qiaoba.png" :size="54"/>
 </a-tooltip> 
 &ensp;
 <a-tooltip placement="bottom">
   <template slot="title">
-    kitaharafay
+    liuyanbin
   </template>
-  <a-avatar src="https://avatars0.githubusercontent.com/u/37034015?s=400&u=773ab8dae0850cfd01f828e7c407d423b58ec748&v=4" :size="54"/>
+  <a-avatar src="/assets/wusuopu.png" :size="54"/>
 </a-tooltip> 
 
 
 <p>&nbsp; </p>  
 
-[我也想为贡献者之一？](https://github.com/zpfz/vuepress-theme-antdocs/pulls)
+[我也想为贡献者之一？](https://github.com/Cicizz/jmqtt/pulls)
 
 <p>&nbsp; </p> 
-
-## 赞助者  
-
-<p></p>
-
-<a-tooltip placement="bottom">
-  <template slot="title">
-    Roy Kid
-  </template>
-  <a-avatar src="https://s1.ax1x.com/2020/03/17/8dnGRA.th.jpg" :size="54"/>
-</a-tooltip>
 
 
 <Msg />

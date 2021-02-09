@@ -3,92 +3,56 @@ title: 更新日志
 ---
 
 # 更新日志
-
+<p></p> 
 <p></p> 
 
 <template>
   <a-timeline>
     <a-timeline-item>
-      v1.2.2
+      v3.0.0
       <p>
         更新内容：<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 页脚支持渲染 html 代码（可用于实现备案号等）；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 更改依赖版本号至最新版本。<br/>
+        &emsp;- <a-tag color="green">优化</a-tag> 架构优化，模块优化，删除一些不必要的代码和模块等<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 支持基于mysql的数据持久化/集群<br/>
+        &emsp;- <a-tag color="green">优化</a-tag> 插件化开发优化，更友好的支持插件化<br/>
+        &emsp;- <a-tag color="green">优化</a-tag> 集群处理优化，确定集群处理的两种方式<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 详细的技术文档和核心代码注释<br/>
+        &emsp;- <a-tag color="green">优化</a-tag> 日志优化，切换为log4j2<br/>
+        &emsp;- <a-tag color="green">说明</a-tag> 请使用该版本之后的版本，会长期维护和优化<br/>
       </p>
     </a-timeline-item>
     <a-timeline-item>
-      v1.2.0
+      v2.1.0
       <p>
         更新内容：<br/>
-        &emsp;- <a-tag color="orange">新增</a-tag> 新增 多语言设置。<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 支持基于redis的中央集群，多主机横向扩展，实现高可用<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 支持SSL/TLS<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 支持安全认证<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 扩展了集群功能，解决之前相应的Bug<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 新增后台管理模块，新增后台管理页面(暂时只是页面模板)<br/>
       </p>
     </a-timeline-item>
-    <a-timeline-item>
-      v1.1.1
-      <p>
-        更新内容：<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 优化侧边栏标题过长时鼠标悬停的显示效果；<br/>
-        &emsp;- <a-tag color="purple">修复</a-tag> 修复移动端侧边栏按钮展开状态显示异常的BUG。<br/>
-      </p>
-    </a-timeline-item>
-    <a-timeline-item>
-      v1.1.0
-      <p>
-        更新内容：<br/>
-        &emsp;- <a-tag color="orange">新增</a-tag> 新增 Repo 状态图标；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 更改依赖版本号至最新版本。<br/>
-      </p>
-    </a-timeline-item>
-    <a-timeline-item>
-      v1.0.1
-      <p>
-        更新内容：<br/>
-        &emsp;- <a-tag color="purple">修复</a-tag> 修复代码块显示 css/cpp/c 语言标识异常的BUG；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 优化其他细节。<br/>
-      </p>
-    </a-timeline-item>
+      <a-timeline-item>
+        v1.1.0
+        <p>
+          更新内容：<br/>
+          &emsp;- <a-tag color="green">新增</a-tag> 支持连接，发布，订阅权限认证（插件化）<br/>
+          &emsp;- <a-tag color="green">优化</a-tag> 优化rocksdb存储<br/>
+          &emsp;- <a-tag color="green">优化</a-tag> 添加一些日志log<br/>
+          &emsp;- <a-tag color="green">修复</a-tag> 移除redis的存储<br/>
+          &emsp;- <a-tag color="green">修复</a-tag> 修复订阅bug<br/>
+          &emsp;- <a-tag color="green">修复</a-tag> 修复离线消息bug<br/>
+          &emsp;- <a-tag color="green">修复</a-tag> 修复retain消息bug<br/>
+        </p>
+      </a-timeline-item>
     <a-timeline-item>
       v1.0.0
-      <a-tag color="green">正式版</a-tag>
       <p>
         更新内容：<br/>
-        &emsp;- <a-tag color="orange">新增</a-tag> 添加侧边栏广告位，支持三种显示状态（图片、图文、招待显示）； <br/>
-        &emsp;- <a-tag color="orange">新增</a-tag> 新增首页次级按钮，即首页按钮最大支持数为 2 个；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 优化返回顶部按钮可自定义开启；<br/>
-        &emsp;- <a-tag color="purple">修复</a-tag> 修复导航栏因 title 过长而显示异常的BUG；<br/>
-        &emsp;- <a-tag color="purple">修复</a-tag> 修复其他可能存在问题的BUG。<br/>
-      </p>
-    </a-timeline-item>
-    <a-timeline-item>
-      v0.1.2
-      <a-tag color="blue">公测版</a-tag>
-      <p>
-        更新内容：<br/>
-        &emsp;- <a-tag color="purple">修复</a-tag> 修复导航栏菜单在某些情况未能正确激活当前菜单项的问题；<br/>
-      </p>
-    </a-timeline-item>
-    <a-timeline-item>
-      v0.1.1
-      <a-tag color="blue">公测版</a-tag>
-      <p>
-        更新内容：<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 优化移动端侧边栏显示效果；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 优化移动端搜索和菜单图标显示效果。<br/>
-      </p>
-    </a-timeline-item>
-    <a-timeline-item>
-      v0.1.0
-      <a-tag color="blue">公测版</a-tag>
-      <p>
-        更新内容：<br/>
-        &emsp;- <a-tag color="orange">新增</a-tag> 搭载 Ant Design 组件，在 .md 中直接使用； <br/>
-        &emsp;- <a-tag color="orange">新增</a-tag> 添加底部栏，最大支持 4 个栏目数；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 统一预处理器，使用兼容 Ant Design 样式的 Less 语法；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 优化内置的提示、警告、危险块的显示效果；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 优化代码块、行内代码、Blockquote等显示效果；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 优化首页、导航菜单、Github徽标、侧边栏等显示效果；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 优化移动端显示以及动画效果；<br/>
-        &emsp;- <a-tag color="purple">修复</a-tag> 修复其他可能存在问题的BUG。<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 支持mqtt3.1.1协议所有特性<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 支持websocket<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 支持消息，客户端会话信息本地持久化（采用rocksdb存储）<br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 支持redis存储（非集群）<br/>
       </p>
     </a-timeline-item>
   </a-timeline>

@@ -1,7 +1,7 @@
 module.exports = {
-  title: "AntDocs",
+  title: "Jmqtt",
   theme: "antdocs",
-  description: "一款 Ant Design 设计风格的 VuePress 主题",
+  description: "基于Java的 mqtt broker",
   base: "/",
   // dest: 'public',
   head: [
@@ -37,33 +37,33 @@ module.exports = {
     sidebar: require("./config/sidebar"),
     sidebarDepth: 0,
     lastUpdated: "上次更新",
-    repo: "https://github.com/zpfz/vuepress-theme-antdocs",
+    repo: "https://github.com/Cicizz/jmqtt",
     editLinks: false,
-    ads: {
-      style: 2,
-      image: "https://www.rainyun.com/img/rainyun.png",
-      text: "免费又稳定，签到换延期，来试试雨云主机...",
-      link: "http://redirect.rainyun.cn/?ref=11126",
-      items: [
-        {
-          text: "填写我的邀请码：XKKC88，免费领取 5GB 云存储空间（百年）。不限速，非常好用！",
-          image: "https://s3.ax1x.com/2020/11/17/DePsuq.md.png",
-          link: "https://wenshushu.cn/i/XKKC88"
-        },
-        {
-          text:
-            "点击链接快来和我一起加入语雀文档，体验全新知识创作，让你的协作更高效！",
-          image: "https://s1.ax1x.com/2020/04/06/GsL0Z6.md.png",
-          link:
-            "https://www.yuque.com/register?invite_token=f44225123bcab02038f11cc0a7ab720cb9016a02bec6a30f5e10994a9946152a"
-        },
-        {
-          text: "免费又稳定，签到换延期，来试试雨云主机吧！",
-          image: "https://s1.ax1x.com/2020/04/06/GsvilQ.md.png",
-          link: "http://redirect.rainyun.cn/?ref=11126"
-        }
-      ]
-    }
+    // ads: {
+    //   style: 2,
+    //   image: "https://www.rainyun.com/img/rainyun.png",
+    //   text: "免费又稳定，签到换延期，来试试雨云主机...",
+    //   link: "http://redirect.rainyun.cn/?ref=11126",
+    //   items: [
+    //     {
+    //       text: "填写我的邀请码：XKKC88，免费领取 5GB 云存储空间（百年）。不限速，非常好用！",
+    //       image: "https://s3.ax1x.com/2020/11/17/DePsuq.md.png",
+    //       link: "https://wenshushu.cn/i/XKKC88"
+    //     },
+    //     {
+    //       text:
+    //         "点击链接快来和我一起加入语雀文档，体验全新知识创作，让你的协作更高效！",
+    //       image: "https://s1.ax1x.com/2020/04/06/GsL0Z6.md.png",
+    //       link:
+    //         "https://www.yuque.com/register?invite_token=f44225123bcab02038f11cc0a7ab720cb9016a02bec6a30f5e10994a9946152a"
+    //     },
+    //     {
+    //       text: "免费又稳定，签到换延期，来试试雨云主机吧！",
+    //       image: "https://s1.ax1x.com/2020/04/06/GsvilQ.md.png",
+    //       link: "http://redirect.rainyun.cn/?ref=11126"
+    //     }
+    //   ]
+    // }
   },
   // configureWebpack: (config, isServer) => {
   //   // config.entry = glob.sync("./dist/*.js");

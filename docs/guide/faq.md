@@ -4,7 +4,8 @@ title: 常见问题
 
 # 常见问题
 
-以下整理了一些常见的问题和官方答复，在提问之前建议找找有没有类似的问题。  
+以下整理了一些常见的问题和官方答复，在提问之前建议找找有没有类似的问题。 
+<!--  
 <a-collapse :bordered="false" class="faq-collapse-margin">
   <template v-slot:expandIcon="props">
     <a-icon type="caret-right" :rotate="props.isActive ? 90 : 0" />
@@ -25,6 +26,7 @@ title: 常见问题
     <p>lastUpdated 是基于每个文件最后一次 git 提交的 UNIX 时间戳(ms)，意味着你的项目应该是基于 git 的项目，它才能正常显示时间。   </p>
   </a-collapse-panel>
 </a-collapse>
+-->
 
 <style>
   .faq-collapse-margin{

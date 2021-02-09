@@ -4,12 +4,12 @@ module.exports = [
     link: '/'
   },
   {
-    text: '指南',
+    text: '技术指南',
     link: '/guide/'
   },
   {
-    text: '插件',
-    link: '/plugin/'
+    text: '技术博客',
+    link: 'http://www.mangdagou.com/blog'
   },
   {
     text: '案例',

@@ -1,12 +1,11 @@
 module.exports = [
 	'/guide/',
 	'getting-started',
+	'config-desc',
+	'mysql-config',
+	'redis-config',
+	'embedded-config',
 	'changelog',
-	'using-vuepress-creator',
-	'writing-norms',
-	'palette',
-	'extend-config',
-	'using-antd',
 	'faq',
 	'sponsor'
 ];
