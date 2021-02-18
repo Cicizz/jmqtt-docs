@@ -61,35 +61,35 @@ mvn -Ppackage-all -DskipTests clean install -U
 
 <a-tooltip placement="bottom">
   <template slot="title">
-    zze
+    詹泽
   </template>
   <a-avatar src="/assets/lufei.png" :size="54"/>
 </a-tooltip>
 &ensp;
 <a-tooltip placement="bottom">
   <template slot="title">
-    fupeng
+    付鹏
   </template>
   <a-avatar src="/assets/suolong.png" :size="54"/>
 </a-tooltip> 
 &ensp;
 <a-tooltip placement="bottom">
   <template slot="title">
-    duyichang
+    杜逸昌
   </template>
   <a-avatar src="/assets/shanzhi.png" :size="54"/>
 </a-tooltip>  
 &ensp;
 <a-tooltip placement="bottom">
   <template slot="title">
-    liuyanbin
+    刘衍斌
   </template>
   <a-avatar src="/assets/qiaoba.png" :size="54"/>
 </a-tooltip> 
 &ensp;
 <a-tooltip placement="bottom">
   <template slot="title">
-    liuyanbin
+    余名兴
   </template>
   <a-avatar src="/assets/wusuopu.png" :size="54"/>
 </a-tooltip> 

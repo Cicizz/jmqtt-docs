@@ -9,7 +9,7 @@ module.exports = [
   },
   {
     text: '技术博客',
-    link: 'http://www.mangdagou.com/blog'
+    link: 'https://www.yuque.com/tristan-ku8np/zze'
   },
   {
     text: '案例',
