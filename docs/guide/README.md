@@ -34,9 +34,9 @@ Jmqtt 是一个基于Java、Netty的 broker。
 
 <p></p>
 
-## 关于 vuepress-theme-antdocs
+## 关于 Jmqtt
 
-Jmqtt 是由zze开发的一款基于java，netty的broker，目前mqtt 服务端broker中 emq比较强大，不过在java语言领域，因为尚无完整支持持久化存储/集群的mqtt服务器，
+Jmqtt 是由zze牵头开发的一款基于java，netty的broker，目前mqtt 服务端broker中 emq比较强大，不过在java语言领域，因为尚无完整支持持久化存储/集群的mqtt服务器，
 故开源了Jmqtt，拟在提供一个强大的基于java的mqtt broker，jmqtt代码风格良好，核心代码有较详细注释，方便二次开发和改造。
 
 <style>
