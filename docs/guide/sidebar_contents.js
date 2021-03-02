@@ -5,7 +5,7 @@ module.exports = [
 	'mysql-config',
 	'redis-config',
 	'embedded-config',
-	'springboot-started'
+	'spring-started',
 	'changelog',
 	'faq',
 	'sponsor'
