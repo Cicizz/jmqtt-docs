@@ -6,6 +6,7 @@ module.exports = [
 	'redis-config',
 	'embedded-config',
 	'spring-started',
+	'acceptance-criteria',
 	'changelog',
 	'faq',
 	'sponsor'
