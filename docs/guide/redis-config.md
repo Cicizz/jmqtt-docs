@@ -16,7 +16,7 @@ title: 基于redis启动
 3. brokerB内部消息订阅组件会立收到未处理的事件消息，判断为分发消息事件，进行处理。
 4. brokerB将事件转换为消息分发给brokerB上连接的client，这里为client2
 
-## mysql相关配置
+## redis相关配置
 ```json
 # 这里需要采用集群1的方式
 clusterMode = 1
