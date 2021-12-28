@@ -27,7 +27,38 @@ title: 常见问题
   </a-collapse-panel>
 </a-collapse>
 -->
-
+<a-collapse :bordered="false" class="faq-collapse-margin">
+  <template v-slot:expandIcon="props">
+    <a-icon type="caret-right" :rotate="props.isActive ? 90 : 0" />
+  </template>
+  <a-collapse-panel header="我只想单独使用broker jar但提示找不到主启动类" key="1" class="faq-collapse">
+    <p>在broker pom文件下添加以下打包插件然后重新mvn打包</p>
+		```pom
+		<build>
+			<plugins>
+				<plugin>
+					<groupId>org.springframework.boot</groupId>
+					<artifactId>spring-boot-maven-plugin</artifactId>
+					<configuration>
+						<fork>true</fork>
+						<!-- 如果没有该配置，devtools不会生效 -->
+						<!-- 指定该Main Class为全局的唯一入口 -->
+						<mainClass>org.jmqtt.broker.BrokerStartup</mainClass>
+						<layout>ZIP</layout>
+					</configuration>
+					<executions>
+						<execution>
+							<goals>
+								<goal>repackage</goal><!--可以把依赖的包都打包到生成的Jar包中-->
+							</goals>
+						</execution>
+					</executions>
+				</plugin>
+			</plugins>
+        </build>
+		```
+  </a-collapse-panel>
+  </a-collapse>
 <style>
   .faq-collapse-margin{
     margin-top: .625rem;
