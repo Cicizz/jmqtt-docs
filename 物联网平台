@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T12:09:52.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="j05sRo8VZTF467wTIc2X" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T12:13:09.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tMNWl7jvz6XmOpDLNGzD" version="17.1.3" type="github">
   <diagram id="rgWVWCDbf20ncOSqAcRV" name="Page-1">
-    <mxGraphModel dx="2" dy="-359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2" dy="-279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,16 +200,43 @@
           <mxGeometry x="223" y="796" width="97" height="25" as="geometry" />
         </mxCell>
         <mxCell id="z15P_KZPoSUYUkN2TUVC-84" value="员工" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="796" width="97" height="25" as="geometry" />
+          <mxGeometry x="337" y="796" width="97" height="25" as="geometry" />
         </mxCell>
         <mxCell id="z15P_KZPoSUYUkN2TUVC-85" value="角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="796" width="97" height="25" as="geometry" />
+          <mxGeometry x="456" y="796" width="97" height="25" as="geometry" />
         </mxCell>
         <mxCell id="z15P_KZPoSUYUkN2TUVC-86" value="权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="579" y="796" width="97" height="25" as="geometry" />
+          <mxGeometry x="573" y="796" width="97" height="25" as="geometry" />
         </mxCell>
         <mxCell id="z15P_KZPoSUYUkN2TUVC-87" value="C端用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="689.5" y="796" width="97" height="25" as="geometry" />
+          <mxGeometry x="687.5" y="796" width="97" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-88" value="物联网设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="855" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-89" value="PC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.5" y="510" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-90" value="手机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.5" y="551" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-91" value="手环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.5" y="592" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-92" value="电表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.5" y="633" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-93" value="点灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.5" y="675" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-94" value="温度传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.5" y="718" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-95" value="光学传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.5" y="760.5" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-96" value="压力传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841.5" y="805" width="98.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
