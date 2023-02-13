@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T11:56:34.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YEfGhnaq-3dAKiU1DDOq" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T11:59:16.154Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xhU6U-547aGjcmMPlzNS" version="17.1.3" type="github">
   <diagram id="rgWVWCDbf20ncOSqAcRV" name="Page-1">
-    <mxGraphModel dx="2" dy="-239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2" dy="-359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,23 +82,11 @@
         <mxCell id="z15P_KZPoSUYUkN2TUVC-32" value="PaaS服务能力：Http / OpenAPI / SDK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="116" y="500" width="684" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="116" y="555" width="134" height="215" as="geometry" />
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="116" y="555" width="124" height="215" as="geometry" />
         </mxCell>
         <mxCell id="z15P_KZPoSUYUkN2TUVC-35" value="&lt;span style=&quot;font-size: 10px&quot;&gt;产品模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="124" y="555" width="106" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="269" y="555" width="131" height="215" as="geometry" />
-        </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="428" y="555" width="131" height="215" as="geometry" />
-        </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="580" y="555" width="131" height="215" as="geometry" />
-        </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="730" y="555" width="70" height="215" as="geometry" />
+          <mxGeometry x="125" y="555" width="106" height="25" as="geometry" />
         </mxCell>
         <mxCell id="z15P_KZPoSUYUkN2TUVC-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="115" y="787" width="685" height="40" as="geometry" />
@@ -108,6 +96,30 @@
         </mxCell>
         <mxCell id="z15P_KZPoSUYUkN2TUVC-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="103" y="870" width="847" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="256" y="555" width="124" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-49" value="&lt;span style=&quot;font-size: 10px&quot;&gt;设备模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="265" y="555" width="106" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="396" y="555" width="124" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-51" value="&lt;span style=&quot;font-size: 10px&quot;&gt;数据模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="405" y="555" width="106" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="536" y="555" width="124" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-53" value="&lt;span style=&quot;font-size: 10px&quot;&gt;规则引擎&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="545" y="555" width="106" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="676" y="555" width="124" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-55" value="&lt;span style=&quot;font-size: 10px&quot;&gt;网关协议&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="685" y="555" width="106" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
