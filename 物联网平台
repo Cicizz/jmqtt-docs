@@ -1,262 +1,262 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T12:21:26.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MB0EYEhyRdhjRajtORzi" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:36:59.282Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1GPP0Yc_dk9r7Sp4Q4T6" version="20.8.20" type="github">
   <diagram id="rgWVWCDbf20ncOSqAcRV" name="Page-1">
-    <mxGraphModel dx="324.67" dy="-117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1461" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-1" value="智慧能源解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-1" value="智慧能源解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="100" y="231" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-2" value="智慧家电解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-2" value="智慧家电解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="277" y="231" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-3" value="智慧工厂解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-3" value="智慧工厂解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="444" y="231" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-4" value="智慧工厂解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-4" value="智慧工厂解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="621" y="231" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-5" value="智慧工厂解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-5" value="智慧工厂解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="800" y="231" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;行业解决方案&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;行业解决方案&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="236" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-8" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-8" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="100" y="294" width="850" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-10" value="wx小程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-10" value="wx小程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="116" y="329" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;垂类场景产品服务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;垂类场景产品服务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="359" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-13" value="&lt;span style=&quot;font-size: 10px&quot;&gt;C端产品服务&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-13" value="&lt;span style=&quot;font-size: 10px&quot;&gt;C端产品服务&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="223" y="296" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-14" value="&lt;span style=&quot;font-size: 10px&quot;&gt;B端运营功能&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-14" value="&lt;span style=&quot;font-size: 10px&quot;&gt;B端运营功能&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="660" y="296" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-15" value="app/手表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-15" value="app/手表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="253" y="329" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-16" value="pc/h5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-16" value="pc/h5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="380" y="329" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-17" value="设备状态监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-17" value="设备状态监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="115" y="372" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-18" value="设备操作处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-18" value="设备操作处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="372" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-19" value="设备数据监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-19" value="设备数据监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="115" y="415" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-21" value="C端用户体系" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-21" value="C端用户体系" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="415" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-22" value="PC/WEB端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-22" value="PC/WEB端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="329" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-23" value="移动端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-23" value="移动端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="760" y="329" width="177" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-25" value="设备运营管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-25" value="设备运营管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="372" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-26" value="设备状态监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-26" value="设备状态监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="759" y="372" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-27" value="设备指令操作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-27" value="设备指令操作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="415" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-28" value="设备数据监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-28" value="设备数据监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="760" y="415" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;技术平台能力&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;技术平台能力&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-30" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-30" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="100" y="480" width="720" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-32" value="PaaS服务能力：Http / OpenAPI / SDK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-32" value="PaaS服务能力：Http / OpenAPI / SDK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="116" y="500" width="684" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="116" y="555" width="124" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-35" value="&lt;span style=&quot;font-size: 10px&quot;&gt;产品模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-35" value="&lt;span style=&quot;font-size: 10px&quot;&gt;产品模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="125" y="555" width="106" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="115" y="788" width="685" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="830" y="480" width="120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="100" y="880" width="850" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="256" y="555" width="124" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-49" value="&lt;span style=&quot;font-size: 10px&quot;&gt;设备模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-49" value="&lt;span style=&quot;font-size: 10px&quot;&gt;设备模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="265" y="555" width="106" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="392" y="555" width="130" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-51" value="&lt;span style=&quot;font-size: 10px&quot;&gt;数据模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-51" value="&lt;span style=&quot;font-size: 10px&quot;&gt;数据模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="405" y="555" width="106" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="536" y="555" width="124" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-53" value="&lt;span style=&quot;font-size: 10px&quot;&gt;规则引擎&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-53" value="&lt;span style=&quot;font-size: 10px&quot;&gt;规则引擎&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="545" y="555" width="106" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="676" y="555" width="124" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-55" value="&lt;span style=&quot;font-size: 10px&quot;&gt;网关协议&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-55" value="&lt;span style=&quot;font-size: 10px&quot;&gt;网关协议&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="685" y="555" width="106" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-56" value="产品模版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-56" value="产品模版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="121" y="582" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-57" value="产品管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-57" value="产品管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="121" y="620" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-58" value="产品物模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-58" value="产品物模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="121" y="658" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-59" value="产品监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-59" value="产品监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="121" y="695" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-60" value="产品指令操控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-60" value="产品指令操控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="121" y="734" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-61" value="设备管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-61" value="设备管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="263" y="582" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-62" value="设备状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-62" value="设备状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="263" y="620" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-63" value="设备物模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-63" value="设备物模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="263" y="658" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-64" value="设备查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-64" value="设备查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="263" y="695" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-65" value="设备指令操控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-65" value="设备指令操控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="263" y="734" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-66" value="系统监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-66" value="系统监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="401" y="582" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-67" value="设备监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-67" value="设备监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="401" y="620" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-68" value="大数据分析与报表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-68" value="大数据分析与报表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="402.5" y="658" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-69" value="可视化监控大屏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-69" value="可视化监控大屏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="402.5" y="695" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-70" value="异常预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-70" value="异常预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="403" y="734" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-71" value="规则模版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-71" value="规则模版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="544" y="582" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-73" value="规则数据投递" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-73" value="规则数据投递" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="544" y="628" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-74" value="可视化规则引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-74" value="可视化规则引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="544" y="678" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-75" value="规则运行监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-75" value="规则运行监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="545" y="725" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-76" value="MQTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-76" value="MQTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="683" y="582" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-77" value="COAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-77" value="COAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="683" y="620" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-78" value="MODBUS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-78" value="MODBUS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="683" y="658" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-79" value="UDP协议插件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-79" value="UDP协议插件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="683" y="695" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-80" value="TCP协议插件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-80" value="TCP协议插件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="683" y="734" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-82" value="&lt;span style=&quot;font-size: 10px&quot;&gt;多租户帐权体系&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-82" value="&lt;span style=&quot;font-size: 10px&quot;&gt;多租户帐权体系&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="121" y="795" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-83" value="租户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-83" value="租户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="223" y="796" width="97" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-84" value="员工" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-84" value="员工" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="337" y="796" width="97" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-85" value="角色" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-85" value="角色" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="456" y="796" width="97" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-86" value="权限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-86" value="权限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="573" y="796" width="97" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-87" value="C端用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-87" value="C端用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="796" width="97" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-88" value="物联网设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-88" value="物联网设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="855" y="480" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-89" value="PC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-89" value="PC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="841.5" y="510" width="98.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-90" value="手机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-90" value="手机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="841.5" y="551" width="98.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-91" value="手环" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-91" value="手环" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="841.5" y="592" width="98.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-92" value="电表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-92" value="电表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="841.5" y="633" width="98.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-93" value="点灯" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-93" value="电灯" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="841.5" y="675" width="98.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-94" value="温度传感器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-94" value="温度传感器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="841.5" y="718" width="98.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-95" value="光学传感器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-95" value="光学传感器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="841.5" y="760.5" width="98.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-96" value="压力传感器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-96" value="压力传感器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="841.5" y="805" width="98.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-98" value="&lt;span style=&quot;font-size: 14px&quot;&gt;底座依赖&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-98" value="&lt;span style=&quot;font-size: 14px&quot;&gt;底座依赖&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="895" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-99" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-99" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="111" y="895" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-101" value="时序数据库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-101" value="时序数据库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="253" y="895" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-102" value="flink监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-102" value="flink监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="395.5" y="895" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-103" value="redis缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-103" value="redis缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="536.5" y="895" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-104" value="es搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-104" value="es搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="676" y="895" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-106" value="AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-106" value="AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="812" y="895" width="125" height="35" as="geometry" />
         </mxCell>
       </root>
