@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T11:46:53.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ze-uU-eJqZgdIZWg_LN0" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T11:49:52.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="d95alsNPV-N0WKk5wpxy" version="17.1.3" type="github">
   <diagram id="rgWVWCDbf20ncOSqAcRV" name="Page-1">
-    <mxGraphModel dx="2" dy="-79" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2" dy="-39" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,8 +55,26 @@
         <mxCell id="z15P_KZPoSUYUkN2TUVC-21" value="C端用户体系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="406" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z15P_KZPoSUYUkN2TUVC-22" value="wx小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="320" width="115" height="30" as="geometry" />
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-22" value="PC/WEB端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-23" value="移动端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="320" width="177" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-25" value="设备运营管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="363" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-26" value="设备状态监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759" y="363" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-27" value="设备指令操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="406" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-28" value="设备数据监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="406" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z15P_KZPoSUYUkN2TUVC-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;技术能力平台&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="555" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
